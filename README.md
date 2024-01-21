@@ -1,5 +1,4 @@
 
-
 Nama    : Dzaky Alaudin Malik
 
 NIM     : 312210495
@@ -56,11 +55,11 @@ Buatkanlah :
 Untuk tampilan Layout Bebas, terima kasih.
 ```
 
-## Tugas 2
+## Tugas 1
 ![tugas p10](https://github.com/syifaaurellia/IntentProject2/assets/115867244/439f806f-6f3d-4712-b9f4-c70c77f8a4e7)
 
 
-## Tugas 3
+## Tugas 2
 ![tugas](https://github.com/syifaaurellia/fragment_test/assets/115867244/fb861b7f-9579-47f3-a830-8cc7d896afbf)
 
 > **Pada tugas 3 saya juga akan menambahkan video trailer di setiap film**
